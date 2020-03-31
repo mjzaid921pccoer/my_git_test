@@ -1,0 +1,24 @@
+{
+  "name": "my_git_test",
+  "version": "1.0.0",
+  "description": "\"Testing for Git and Node\"",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjzaid921pccoer/my_git_test.git"
+  },
+  "author": "\"jaid\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjzaid921pccoer/my_git_test/issues"
+  },
+  "homepage": "https://github.com/mjzaid921pccoer/my_git_test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
